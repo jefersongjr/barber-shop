@@ -3,7 +3,7 @@ export default interface Profissional {
     id: number;
     name: string;
     description: string;
-    urlImg: number;
+    urlImg: string;
     avaliation: number;
-    avaliationQtt: string;
+    avaliationQtt: number;
 }
