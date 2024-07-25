@@ -1,3 +1,3 @@
-export * from "../profissional/Profisional";
-export * from "../services/Service";
-export * from "../user/User";
+export * from "../profissional";
+export * from "../services";
+export * from "../user";
