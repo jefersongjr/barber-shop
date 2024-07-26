@@ -29,4 +29,4 @@ const clientes = [
     },
 ]
 
-export default clientes
+export default clientes;

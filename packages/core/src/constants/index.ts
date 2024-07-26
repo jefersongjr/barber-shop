@@ -1,4 +1,4 @@
-import clientes from './clientes'
+import clientes from './users'
 import profissionais from './profissionais'
 import servicos from './services'
 

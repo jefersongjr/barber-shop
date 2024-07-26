@@ -1,3 +1,5 @@
-export * from "../profissional";
-export * from "../services";
-export * from "../user";
+export{ profissionais, servicos, clientes} from "../src/constants/index";
+export * from "./services";
+export * from "./user";
+export * from "./profissional";
+

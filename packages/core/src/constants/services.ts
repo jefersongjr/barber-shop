@@ -1,6 +1,6 @@
-import Servico from '../services/Service';
+import Service from '../services/Service';
 
-const servicos: Servico[] = [
+const servicos: Service[] = [
     {
         id: 1,
         name: 'Corte Viking',
@@ -57,4 +57,4 @@ const servicos: Servico[] = [
     },
 ]
 
-export default servicos
+export default servicos;
