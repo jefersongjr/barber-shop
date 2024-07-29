@@ -1,59 +1,59 @@
-import Profissional from '../profissional/Profisional';
+import Profissional from '../profissional/Profissional'
 
 const profissionais: Profissional[] = [
     {
         id: 1,
-        name: 'Marcão Machadada',
-        description:
+        nome: 'Marcão Machadada',
+        descricao:
             'Salve, salve, galera! Sou o Marcão Machadada, o único cabeleireiro que pode transformar uma juba de leão em um corte digno de um rei com um único movimento de tesoura.',
-        urlImg: '/profissionais/profissional-1.jpg',
-        avaliation: 5,
-        avaliationQtt: 87,
+        imagemUrl: '/profissionais/profissional-1.jpg',
+        avaliacao: 5,
+        quantidadeAvaliacoes: 87,
     },
     {
         id: 2,
-        name: 'Beto Brutal',
-        description:
+        nome: 'Beto Brutal',
+        descricao:
             'Quando o assunto é barba, ninguém faz melhor que Beto Brutal! Suas lâminas afiadas são lendárias e seu estilo é inconfundível. Para um visual marcante e robusto, ele é o seu homem!',
-        urlImg: '/profissionais/profissional-2.jpg',
-        avaliation: 4.5,
-        avaliationQtt: 39,
+        imagemUrl: '/profissionais/profissional-2.jpg',
+        avaliacao: 4.5,
+        quantidadeAvaliacoes: 39,
     },
     {
         id: 3,
-        name: 'Kathya Tesourada',
-        description:
+        nome: 'Kathya Tesourada',
+        descricao:
             'Kathya não tem medo de tesourar! Com precisão e ousadia, ela transforma qualquer cabelo em uma obra-prima rústica. Seu lema? Corte raiz sem perder a feminilidade!',
-        urlImg: '/profissionais/profissional-3.jpg',
-        avaliation: 5,
-        avaliationQtt: 91,
+        imagemUrl: '/profissionais/profissional-3.jpg',
+        avaliacao: 5,
+        quantidadeAvaliacoes: 91,
     },
     {
         id: 4,
-        name: 'Sérgio Serrador',
-        description:
+        nome: 'Sérgio Serrador',
+        descricao:
             'Sérgio é conhecido por sua técnica impecável e estilo único. Com sua serra (ou melhor, tesoura) em mãos, ele cria visuais que impressionam. Barba bem-feita é com ele mesmo!',
-        urlImg: '/profissionais/profissional-4.jpg',
-        avaliation: 4.5,
-        avaliationQtt: 29,
+        imagemUrl: '/profissionais/profissional-4.jpg',
+        avaliacao: 4.5,
+        quantidadeAvaliacoes: 29,
     },
     {
         id: 5,
-        name: 'Rafa Raspa Tudo',
-        description:
+        nome: 'Rafa Raspa Tudo',
+        descricao:
             'Para aqueles que preferem um look mais rente, Rafa é o especialista! Sua máquina raspa tudo com precisão, deixando um acabamento perfeito. Raspar é a sua arte!',
-        urlImg: '/profissionais/profissional-5.jpg',
-        avaliation: 4.5,
-        avaliationQtt: 44,
+        imagemUrl: '/profissionais/profissional-5.jpg',
+        avaliacao: 4.5,
+        quantidadeAvaliacoes: 44,
     },
     {
         id: 6,
-        name: 'Fernanda Faísca',
-        description:
+        nome: 'Fernanda Faísca',
+        descricao:
             'Fernanda traz um toque de brilho e energia a cada corte. Com suas lâminas ágeis, ela faz milagres em qualquer tipo de cabelo. Precisa de um look cheio de faísca? É com ela mesmo!',
-        urlImg: '/profissionais/profissional-6.jpg',
-        avaliation: 5,
-        avaliationQtt: 46,
+        imagemUrl: '/profissionais/profissional-6.jpg',
+        avaliacao: 5,
+        quantidadeAvaliacoes: 46,
     },
 ]
 

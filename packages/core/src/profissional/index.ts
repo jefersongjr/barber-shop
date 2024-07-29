@@ -1,3 +1,3 @@
-import Profissional from "../profissional/Profisional";
+import Profissional from './Profissional'
 
-export type { Profissional };
+export type { Profissional }
